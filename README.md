@@ -12,10 +12,6 @@
  
  3.  Deploy to Heroku using the instructions at the top of this page.
 
-
-
-## Developer: Falguni Islam(Software Developer)
-
 ## Heroku Open :
 
 **[Sinatra Project](https://ancient-bayou-65013.herokuapp.com/)**
